@@ -305,6 +305,7 @@ GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 |---|---|
 | **Live Application** | [community-hero-100012385991.asia-southeast1.run.app](https://community-hero-100012385991.asia-southeast1.run.app) |
 | **GitHub Repository** | [github.com/Babasekar/Community-Hero-Application](https://github.com/Babasekar/Community-Hero-Application/tree/main) |
+| **Documentation with UI** | [Link](https://communityappdocumentation.netlify.app/)) |
 
 ---
 
